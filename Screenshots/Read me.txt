@@ -1,1 +1,1 @@
-After executing a code, if screenshot is taken the folder needs to be refresh in order to view the file.
+After exeuting a code and taking screenshot the foulder needs to be refresh in order to view the file.
