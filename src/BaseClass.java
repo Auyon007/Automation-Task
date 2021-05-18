@@ -215,6 +215,7 @@ public class BaseClass {
 
 				//Scroll to Currency exchange calculator
 				scroll_to_cec();
+				Thread.sleep(delay_1);
 
 				String currency_Option = driver.findElement(By.xpath("//*[@id=\'currency-exchange-app\']/div/div/div[2]/div[1]/form/div[1]/div/div[1]/span")).getText();
 				String test_Pass = "*** Test Case passed. Rates updated and currency option matched***";

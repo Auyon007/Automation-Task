@@ -11,7 +11,7 @@ public static void main(String[] args) throws Exception {
 			testSuite.setup(test_name);	
 			
 			// Test case 1
-			log.info("EXECUTING 1ST TEST CASE: When user fills \\\"BUY\\\" amount, \\\"SELL\\\" amount box is being emptied and vice versa");
+			log.info("EXECUTING 1ST TEST CASE: When user fills \"BUY\" amount, \"SELL\" amount box is being emptied and vice versa");
 			testSuite.checkBuySell(101.11);
 			
 			// Test case 2
