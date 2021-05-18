@@ -1,0 +1,1 @@
+After executing a code, if screenshot is taken the folder needs to be refresh in order to view the file.
